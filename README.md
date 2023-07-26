@@ -28,18 +28,19 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/yourusername/Chatopia.git
 cd Chatopia
-Install dependencies:
-bash
-Copy code
+``` 
+2. Install dependencies:
+```bash
 npm install
-
-2. Start the development server:
+```
+3. Start the development server:
 
 ```bash
 npm start
+```
 Scan the QR code with the Expo Go app on your mobile device to run the app.
 
-3. Replace API Keys:
+4. Replace API Keys:
 
 In the project, you'll find placeholder variables for API keys that need to be replaced with your actual API keys. Open the following files and replace the placeholders:
 
