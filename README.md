@@ -4,11 +4,11 @@ Chatopia is a React Native app that allows users to chat with a chatbot powered 
 
 ## Table of Contents
 
-- [Introduction](##introduction)
-- [Features](##features)
-- [Installation](##installation)
-- [Usage](##usage)
-- [Screenshots](##screenshots)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
 
 ## Introduction
 
@@ -56,7 +56,7 @@ TranslateScreen
 The TranslateScreen component lets users input text and choose a source and target language. It then translates the text using the Google Translate API.
 
 ## Screenshots
-<img width="512" alt="Screenshot 2023-07-26 005841" src="https://github.com/dronv/Chatopia/assets/41694884/7bb3325f-fd76-4084-9bef-2bf9abc56cd6">
-<img width="514" alt="Screenshot 2023-07-26 010138" src="https://github.com/dronv/Chatopia/assets/41694884/c36caee8-9474-4274-8c61-438fda2c113a">
-<img width="515" alt="Screenshot 2023-07-26 010200" src="https://github.com/dronv/Chatopia/assets/41694884/18448402-c536-4b77-9f6b-20c73fa9d714">
+<img width="512" alt="Screenshot 2023-07-26 005841" src="https://github.com/dronv/Chatopia/assets/41694884/e9f2e629-fb0a-4da2-94fb-6d5d6613871d">
+<img width="514" alt="Screenshot 2023-07-26 010138" src="https://github.com/dronv/Chatopia/assets/41694884/b20007b1-11a0-4864-8573-bcd4f9a7d315">
+<img width="515" alt="Screenshot 2023-07-26 010200" src="https://github.com/dronv/Chatopia/assets/41694884/ac7a73d3-2365-4b8a-a1a9-20758e8d67de">
 
